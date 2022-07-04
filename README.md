@@ -3,7 +3,7 @@
 This is a Calculator using react
 This app was created to learn and practice react 
 
-Thnak you WebdevSimplified For this tutorail
+Thnak you WebdevSimplified For this tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
